@@ -1,0 +1,10 @@
+C:\Users\Rafael\source\repos\Conversormoedas\bin\Debug\Conversormoedas.exe.config
+C:\Users\Rafael\source\repos\Conversormoedas\bin\Debug\Conversormoedas.exe
+C:\Users\Rafael\source\repos\Conversormoedas\bin\Debug\Conversormoedas.pdb
+C:\Users\Rafael\source\repos\Conversormoedas\obj\Debug\Conversormoedas.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\Conversormoedas\obj\Debug\Conversormoedas.Form1.resources
+C:\Users\Rafael\source\repos\Conversormoedas\obj\Debug\Conversormoedas.Properties.Resources.resources
+C:\Users\Rafael\source\repos\Conversormoedas\obj\Debug\Conversormoedas.csproj.GenerateResource.cache
+C:\Users\Rafael\source\repos\Conversormoedas\obj\Debug\Conversormoedas.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\Conversormoedas\obj\Debug\Conversormoedas.exe
+C:\Users\Rafael\source\repos\Conversormoedas\obj\Debug\Conversormoedas.pdb
